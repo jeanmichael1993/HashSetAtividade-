@@ -1,0 +1,13 @@
+C:\Users\jeanm\source\repos\HashSetAtividade\HashSetAtividade\bin\Debug\netcoreapp3.1\HashSetAtividade.exe
+C:\Users\jeanm\source\repos\HashSetAtividade\HashSetAtividade\bin\Debug\netcoreapp3.1\HashSetAtividade.deps.json
+C:\Users\jeanm\source\repos\HashSetAtividade\HashSetAtividade\bin\Debug\netcoreapp3.1\HashSetAtividade.runtimeconfig.json
+C:\Users\jeanm\source\repos\HashSetAtividade\HashSetAtividade\bin\Debug\netcoreapp3.1\HashSetAtividade.runtimeconfig.dev.json
+C:\Users\jeanm\source\repos\HashSetAtividade\HashSetAtividade\bin\Debug\netcoreapp3.1\HashSetAtividade.dll
+C:\Users\jeanm\source\repos\HashSetAtividade\HashSetAtividade\bin\Debug\netcoreapp3.1\HashSetAtividade.pdb
+C:\Users\jeanm\source\repos\HashSetAtividade\HashSetAtividade\obj\Debug\netcoreapp3.1\HashSetAtividade.csprojAssemblyReference.cache
+C:\Users\jeanm\source\repos\HashSetAtividade\HashSetAtividade\obj\Debug\netcoreapp3.1\HashSetAtividade.AssemblyInfoInputs.cache
+C:\Users\jeanm\source\repos\HashSetAtividade\HashSetAtividade\obj\Debug\netcoreapp3.1\HashSetAtividade.AssemblyInfo.cs
+C:\Users\jeanm\source\repos\HashSetAtividade\HashSetAtividade\obj\Debug\netcoreapp3.1\HashSetAtividade.csproj.CoreCompileInputs.cache
+C:\Users\jeanm\source\repos\HashSetAtividade\HashSetAtividade\obj\Debug\netcoreapp3.1\HashSetAtividade.dll
+C:\Users\jeanm\source\repos\HashSetAtividade\HashSetAtividade\obj\Debug\netcoreapp3.1\HashSetAtividade.pdb
+C:\Users\jeanm\source\repos\HashSetAtividade\HashSetAtividade\obj\Debug\netcoreapp3.1\HashSetAtividade.genruntimeconfig.cache
